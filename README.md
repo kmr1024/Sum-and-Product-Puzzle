@@ -1,7 +1,7 @@
 # Sum-and-Product-Puzzle
 The solution of the sum and product puzzle
 
-##Problem Statement:
+## Problem Statement:
 
 X and Y are two whole numbers greater than 1, and Y > X. Their sum is not greater than 100. S and P are two mathematicians (and consequently perfect logicians); S knows the sum X + Y and P knows the product X × Y. Both S and P know all the information in this paragraph.
 
