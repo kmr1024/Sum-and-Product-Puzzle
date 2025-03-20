@@ -7,6 +7,9 @@ X and Y are two whole numbers greater than 1, and Y > X. Their sum is not greate
 In the following conversation, both participants are always telling the truth:
 
 S says "P does not know X and Y."
+
 P says "Now I know X and Y."
+
 S says "Now I also know X and Y."
+
 What are X and Y?
